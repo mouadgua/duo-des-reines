@@ -1,0 +1,2 @@
+CLOUDINARY_NAME="dyezso1wk"
+CLOUDINARY_PRESET="ddr_preset"
